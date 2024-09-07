@@ -4,7 +4,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 Project Title: Virtual Intership.
 Overview: Completed Task's that we Asigned to me during this Intership.
-Along with the Certificate , the Task's are also add for better clarification. 
+Along with the Certificate , the Task's are also added for better clarification. 
 
 
 ## For any queries/doubts:
